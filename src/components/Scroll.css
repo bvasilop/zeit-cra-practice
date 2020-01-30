@@ -1,0 +1,13 @@
+.scroll {
+  overflow: scroll;
+  border: 1px solid #fff;
+  height: 100vh;
+}
+
+.content {
+  padding: 1% 0;
+  margin: 0 auto;
+  margin-top: 0;
+  max-width: 700px;
+  line-height: 1.3em;
+}
